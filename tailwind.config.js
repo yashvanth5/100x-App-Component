@@ -59,11 +59,7 @@ module.exports = {
         'inter': ['Inter', 'sans'], // Replace 'Inter' with the font name if different
         'chirp': ['font-chirp', 'sans'],
       },
-      // backdropFilter: {
-      
-      //   'custom-blur': 'blur(23.668209075927734px)',
-      // },
-
+     
 
 
 
