@@ -26,11 +26,16 @@ module.exports = {
       spacing: {
         '0.9375': '0.9375rem',
         '0.625': '0.625rem',
+
+        //below for componetns added for layout actually used p-44 there as it looks gud 
+        // '14.78125' : '14.78125rem',
+        // '10.121' : '10.121rem',
       
       },
       width: {
         "0.10713" : "0.10713rem",
         "21.75" : "21.75rem",
+       
         "26.625" : "26.625rem",
         '30.125': '30.125rem',
         '30.375': '30.375rem',
@@ -38,6 +43,14 @@ module.exports = {
         "37.375": "37.375rem ",
         '3.5': '3.5rem',
         "32":"32rem",
+
+
+        // below added for layouts of btn width
+        "22.9375" : "22.9375rem", 
+       
+        
+
+
       },
       height: {
         '3.440': '3.440rem',
@@ -48,6 +61,12 @@ module.exports = {
         "0.42856": "0.42856rem",
         "8.3125": "8.3125rem",
         "22.1875" : "22.1875rem",
+
+     
+        // login page layout used
+      "0.0625": "0.0625rem",
+
+
       },
       
       borderRadius: {
@@ -61,7 +80,9 @@ module.exports = {
         'inter': ['Inter', 'sans'], // Replace 'Inter' with the font name if different
         'chirp': ['font-chirp', 'sans'],
       },
-     
+      boxShadow: {
+        'custom-btns': '0px 8px 16px 0px rgba(0, 0, 0, 0.25)',
+      },
 
 
 
